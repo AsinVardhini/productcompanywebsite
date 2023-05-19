@@ -175,7 +175,9 @@ body {
   color: #9c1018;
 }
 ```
-home.html
+
+Home.html
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -218,7 +220,9 @@ home.html
   </body>
 </html>
 ```
-people.html
+
+People.html
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -294,7 +298,9 @@ people.html
   </body>
 </html>
 ```
-product.html
+
+Product.html
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -412,7 +418,10 @@ product.html
   </body>
 </html>
 ```
-contactus.html
+
+Contactus.html
+
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -477,10 +486,11 @@ contactus.html
 
 ![Screenshot 2023-05-19 200216](https://github.com/AsinVardhini/productcompanywebsite/assets/119417735/b4d28b59-a24d-476a-a2b3-ff41d034cdaa)
 
+![Screenshot 2023-05-19 113452](https://github.com/AsinVardhini/productcompanywebsite/assets/119417735/e3c6c804-a187-4ff7-bd5a-c801a7c46a4f)
 
-### Home Page:
+![Screenshot 2023-05-19 200339](https://github.com/AsinVardhini/productcompanywebsite/assets/119417735/5116c448-af22-49c8-ba96-bbd9aed52c19)
 
-![output](./images/homepage.jpg)
+![Screenshot 2023-05-19 113630](https://github.com/AsinVardhini/productcompanywebsite/assets/119417735/e2c64be2-3994-4e65-b82f-13b33b97d4dc)
 
 ## Result:
 
