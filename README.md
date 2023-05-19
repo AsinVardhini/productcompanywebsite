@@ -471,6 +471,13 @@ contactus.html
 ```
 ## OUTPUT:
 
+![Screenshot 2023-05-19 111130](https://github.com/AsinVardhini/productcompanywebsite/assets/119417735/4481aa15-9acf-4e6b-9f05-16cc9f29078c)
+
+![Screenshot 2023-05-19 200025](https://github.com/AsinVardhini/productcompanywebsite/assets/119417735/c02d5c44-b145-4c57-9912-dc0fd2a34a6b)
+
+![Screenshot 2023-05-19 200216](https://github.com/AsinVardhini/productcompanywebsite/assets/119417735/b4d28b59-a24d-476a-a2b3-ff41d034cdaa)
+
+
 ### Home Page:
 
 ![output](./images/homepage.jpg)
